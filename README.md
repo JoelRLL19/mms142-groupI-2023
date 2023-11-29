@@ -7,14 +7,6 @@ Augmented Reality:
 <p align="center">
 Transforming How We Interact With Our Environment
 </p>
-<p align="center">
-<h1>What is Augmented Reality?</h1>
-</p>
-<p>Augmented Reality</p>
-<h1>The Difference Between Augmented Reality and Virtual Reality</h1>
-<p>At first glance, Augmented Reality and Virtual Reality may seem the same, </p>
-
-
 <h1>Members:</h1>
 
 * Joel Ramon Lopez
@@ -25,3 +17,14 @@ Transforming How We Interact With Our Environment
 * Suzanne Anna Maglaque
 * Rayshanne Mariz Lindayag
 * Justine Earl Macomb
+  
+<p align="center">
+<h1>What is Augmented Reality?</h1>
+</p>
+<p>Augmented Reality</p>
+<h1>The Difference Between Augmented Reality and Virtual Reality</h1>
+<p>At first glance, Augmented Reality and Virtual Reality may seem the same, </p>
+<h1>Augmented Reality as a Disruptive Technology</h1>
+
+<h1>References</h1>
+
