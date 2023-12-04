@@ -1,22 +1,25 @@
 <p align="center">
-MMS142 - Group I - 2023
+<b>MMS142 - Group I - 2023</b>
 </p>
 <p align="center">
-Augmented Reality: 
+  <img src="https://github.com/JoelRLL19/mms142-groupI-2023/assets/151889512/e77e0114-694a-4260-a31e-b8518675243b" width="400" height="250">
 </p>
 <p align="center">
-Transforming How We Interact With Our Environment
+<b>Augmented Reality:</b>
+</p>
+<p align="center">
+<b>Transforming How We Interact With Our Environment</b>
 </p>
 <h1>Members:</h1>
 
-* Joel Ramon Lopez
+* <b>Joel Ramon Lopez
 * Michelle Magpayo
 * Jermaine Lobo
 * James Patrick Magallanes
 * Elvin Marco Loja
 * Suzanne Anna Maglaque
 * Rayshanne Mariz Lindayag
-* Justine Earl Macomb
+* Justine Earl Macomb</b>
   
 <p align="center">
 <h1>What is Augmented Reality?</h1>
