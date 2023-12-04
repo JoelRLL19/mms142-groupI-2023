@@ -12,14 +12,14 @@
 </p>
 <h1>Members:</h1>
 
-* <b>Joel Ramon Lopez
+* Joel Ramon Lopez
 * Michelle Magpayo
 * Jermaine Lobo
 * James Patrick Magallanes
 * Elvin Marco Loja
 * Suzanne Anna Maglaque
 * Rayshanne Mariz Lindayag
-* Justine Earl Macomb</b>
+* Justine Earl Macomb
   
 <p align="center">
 <h1>What is Augmented Reality?</h1>
