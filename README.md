@@ -10,9 +10,9 @@
 <p align="center">
 <b>Transforming How We Interact With Our Environment</b>
 </p>
-<h1>Members:</h1>
+<h1>Members and Contributions:</h1>
 
-* Joel Ramon Lopez
+* Joel Ramon Lopez 
 * Michelle Magpayo
 * Jermaine Lobo
 * James Patrick Magallanes
