@@ -65,3 +65,7 @@ db2cc769c36/Comparative-Study-of-Augmented-Reality-Sdks.pdf</p>
 https://link.springer.com/chapter/10.1007/978-1-4614-0064-6_1</p>
 <p>HG Ha, J Hong - Hanyang Medical Reviews, 2016 - synapse.koreamed.org
 https://synapse.koreamed.org/articles/1044286</p>
+<p>S Sinha, Augmented Reality In Education - eLearning Industry, 2021
+https://elearningindustry.com/augmented-reality-in-education-staggering-insight-into-fut</p>
+<p>M Eckert, JS Volmerg, CM Friedrich - JMIR mHealth and uHealth, 2019 - mhealth.jmir.org
+https://mhealth.jmir.org/2019/4/e10967/</p>
