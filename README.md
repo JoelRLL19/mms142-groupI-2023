@@ -30,8 +30,9 @@ shown in the real world using augmented reality (AR). Augmented reality will bec
 between humans and machines, bridging the digital and physical worlds.</p>
 <h1>The Difference Between Augmented Reality and Virtual Reality</h1>
 <p>At first glance, Augmented Reality and Virtual Reality may seem the same, the distinctions between the two come down to the devices required to both experiences. </p>
+
 <h1>How Does Augmented Reality Work?</h1>
-<p>Ivan Sutherland, a computer scientist, known as the "Father of Computer Graphics," developed the first
+<p>Computer scientist, Ivan Sutherland, known as the "Father of Computer Graphics," developed the first
 augmented reality (AR) system in 1968 at Harvard. The universities, businesses, and government
 organizations continued to enhance augmented reality for wearables and digital displays throughout the
 ensuing decades. In fact, Pokémon Go is a 2016 augmented reality game in which players travel through the
