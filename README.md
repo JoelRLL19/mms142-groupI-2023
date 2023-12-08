@@ -24,7 +24,10 @@
 <p align="center">
 <h1>What is Augmented Reality?</h1>
 </p>
-<p>Augmented Reality is defined as either a real-time direct, or indirect view of a physical real-world environment enhanced by adding computer-generated information.</p>
+<p>Augmented Reality is defined as either a real-time direct, or indirect view of a physical real-world environment enhanced by adding computer-generated information.
+With the help of technology, digital images and information may now be
+shown in the real world using augmented reality (AR). Augmented reality will become the new interface
+between humans and machines, bridging the digital and physical worlds.</p>
 <h1>The Difference Between Augmented Reality and Virtual Reality</h1>
 <p>At first glance, Augmented Reality and Virtual Reality may seem the same, the distinctions between the two come down to the devices required to both experiences. </p>
 <h1>How Does Augmented Reality Work?</h1>
