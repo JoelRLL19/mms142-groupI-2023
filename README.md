@@ -53,4 +53,15 @@ concepts, classroom learning can become more engaging and remarkable to student<
 <h1>Examples of Augmented Reality In Use</h1>
 
 <h1>References</h1>
-
+<p>A Javornik - The Mainstreaming of Augmented Reality: A Brief History.., 2016
+https://hbr.org/2016/10/the-mainstreaming-of-augmented-reality-a-brief-
+history#:~:text=The%20first%20AR%20technology%20was,for%20wearables%20and%20digital%20displ
+ays.</p>
+<p>D Amin, S Govilkar - International Journal on Computational …, 2015 - researchgate.net
+https://www.researchgate.net/profile/Sharvari-
+Govilkar/publication/276855764_Comparative_Study_of_Augmented_Reality_Sdk's/links/57c5993908ae6
+db2cc769c36/Comparative-Study-of-Augmented-Reality-Sdks.pdf</p>
+<p>J Carmigniani, B Furht - Handbook of augmented reality, 2011 - Springer
+https://link.springer.com/chapter/10.1007/978-1-4614-0064-6_1</p>
+<p>HG Ha, J Hong - Hanyang Medical Reviews, 2016 - synapse.koreamed.org
+https://synapse.koreamed.org/articles/1044286</p>
