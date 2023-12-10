@@ -12,7 +12,7 @@
 </p>
 <h1>Members and Contributions:</h1>
 
-* Joel Ramon Lopez 
+* Joel Ramon Lopez - Created the overall layout of the report, and contributed to the topic "<i>Augmented Reality as a Disruptive Technology</i>".
 * Michelle Magpayo
 * Jermaine Lobo
 * James Patrick Magallanes
@@ -32,15 +32,13 @@ between humans and machines, bridging the digital and physical worlds.</p>
 <p>At first glance, Augmented Reality and Virtual Reality may seem the same, the distinctions between the two come down to the devices required to both experiences. </p>
 
 <h1>How Does Augmented Reality Work?</h1>
-<p>Computer scientist, Ivan Sutherland, known as the "Father of Computer Graphics," developed the first
+<p>Computer scientist, Ivan Sutherland, who is known as the "<i>Father of Computer Graphics</i>", developed the first
 augmented reality (AR) system in 1968 at Harvard. The universities, businesses, and government
 organizations continued to enhance augmented reality for wearables and digital displays throughout the
-ensuing decades. In fact, Pokémon Go is a 2016 augmented reality game in which players travel through the
-real world while following a digital map in search of cartoon creatures that appear at random. It's getting
-wider and wider. Businesses such as Ikea and Loreal, to name a few, use augmented reality to help consumers
-make a decision about buying their products and, at the same time, boost businesses’ sales. The business can
-decrease return rates and increase customer satisfaction by enabling users to test out a significant purchase
-using augmented reality. In medicine, the AR is used to help with patient care and surgical planning and
+ensuing decades. Pokémon Go, released in 2016, is an example of augmented reality in use where players travel through the
+real world while following a digital map in search of virtual creatures that appear at random. 
+  
+<p>In medicine, the AR is used to help with patient care and surgical planning and
 explain difficult medical conditions to patients. The anatomy of surgical patients can be studied using AR.
 They can input their MRI and CT scan results into an augmented reality headset. The procedure will aid
 doctors in visualizing interior organs, bones, and muscles. Moreover, the augmented reality (AR) movement
@@ -50,8 +48,23 @@ ability to let teachers add gaming aspects to enhance textbook material and demo
 concepts, classroom learning can become more engaging and remarkable to student</p>
 
 <h1>Augmented Reality as a Disruptive Technology</h1>
+<p>Although Augmented Reality has the potential to revolutionize the way people interact with their environment, there are several aspects where AR can potentially be
+considered a disruptive technology.</p>
+
+<p>First and foremost, AR, along with VR, allow users to experience virtual realities in ways that were previously thought impossible, such as AR glasses allowing users
+to see digital objects. Secondly, AR allows offers new ways for its users to interact both with each other, and their envrionment through immersive processes, such as apps
+like Pokemon Go, which lets players explore the real world, while the game's digital creatures are overlayed on top of the environment.</p>
 
 <h1>Examples of Augmented Reality In Use</h1>
+<p>The usage of AR is getting wider and wider. Businesses such as Ikea and L'oreal, use augmented reality to help consumers
+make a decision about buying their products and, at the same time, boost businesses’ sales. The business can
+decrease return rates and increase customer satisfaction by enabling users to test out a significant purchase
+using augmented reality.
+
+<p>In medicine, the AR is used to help with patient care and surgical planning and
+explain difficult medical conditions to patients. The anatomy of surgical patients can be studied using AR.
+They can input their MRI and CT scan results into an augmented reality headset. The procedure will aid
+doctors in visualizing interior organs, bones, and muscles.
 
 <h1>References</h1>
 <p>A Javornik - The Mainstreaming of Augmented Reality: A Brief History.., 2016
