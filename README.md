@@ -10,9 +10,9 @@
 <p align="center">
 <b>Transforming How We Interact With Our Environment</b>
 </p>
-<h1>Members and Contributions:</h1>
+<h1>Group Members:</h1>
 
-* Joel Ramon Lopez - Created the overall layout of the report, and contributed to the topic "<i>Augmented Reality as a Disruptive Technology</i>".
+* Joel Ramon Lopez
 * Michelle Magpayo
 * Jermaine Lobo
 * James Patrick Magallanes
