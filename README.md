@@ -21,15 +21,14 @@
 * Rayshanne Mariz Lindayag
 * Justine Earl Macomb
   
-<p align="center">
 <h1>What is Augmented Reality?</h1>
-</p>
 <p>Augmented Reality is defined as either a real-time direct, or indirect view of a physical real-world environment enhanced by adding computer-generated information.
 With the help of technology, digital images and information may now be
 shown in the real world using augmented reality (AR). Augmented reality will become the new interface
 between humans and machines, bridging the digital and physical worlds.</p>
+
 <h1>The Difference Between Augmented Reality and Virtual Reality</h1>
-<p>At first glance, Augmented Reality and Virtual Reality may seem the same, the distinctions between the two come down to the devices required to both experiences. </p>
+<p>At first glance, Augmented Reality and Virtual Reality may seem the same, and easy to mix up the two, there are actually some key difference between both. The main difference being that AR uses a real world setting, and allows its user to control their presence in the real world, while in VR, it is completely virtual, and is controlled by a system. In addition, AR enchance both the virtual and real world, while VR only enchances a fictional reality.</p>
 
 <h1>How Does Augmented Reality Work?</h1>
 <p>Computer scientist, Ivan Sutherland, who is known as the "<i>Father of Computer Graphics</i>", developed the first
@@ -48,13 +47,19 @@ ability to let teachers add gaming aspects to enhance textbook material and demo
 concepts, classroom learning can become more engaging and remarkable to student</p>
 
 <h1>Augmented Reality as a Disruptive Technology</h1>
-<p>Although Augmented Reality has the potential to revolutionize the way people interact with their environment, there are several aspects where AR can potentially be
-considered a disruptive technology.</p>
+<p>In the age of widespread technology use, the incorportation of Augmented Reality into our daily lives prompts
+concerns regarding its impact on health and safety. The continious engagements with screens facilitated by AR has
+the potential to contribute to various health issues, encompassing eye diseases, mental health disorders, and problems,
+related to posture.</p>
 
-<p>First and foremost, AR, along with VR, allow users to experience virtual realities in ways that were previously thought impossible, such as AR glasses allowing users
+<p>As individuals immerse themselves in augmented environments, there is a risk of overlooking their immediate physical
+surroundings. This is particularly evident during travel, where the use of AR navigation techniques may introduce distractions, leading to misjudgments of the speed of approaching vehicles, underestimations of reaction time, and inadvertent disregard for real-world hazards.</p>
+
+<p>In addition, AR, along with VR, allow users to experience virtual realities in ways that were previously thought impossible, such as AR glasses allowing users
 to see digital objects. Secondly, AR allows offers new ways for its users to interact both with each other, and their envrionment through immersive processes, such as apps
 like Pokemon Go, which lets players explore the real world, while the game's digital creatures are overlayed on top of the environment.</p>
 
+<p>The statement emphasizing that "<i>until something bad happens, you won't know you're at greater risk of harm</i>" underscores the critical need to comprehend and address the potential negative consequences of AR technology.</p>
 <h1>Examples of Augmented Reality In Use</h1>
 <p>The usage of AR is getting wider and wider. Businesses such as Ikea and L'oreal, use augmented reality to help consumers
 make a decision about buying their products and, at the same time, boost businesses’ sales. The business can
@@ -79,3 +84,5 @@ https://synapse.koreamed.org/articles/1044286</p>
 https://elearningindustry.com/augmented-reality-in-education-staggering-insight-into-fut</p>
 <p>M Eckert, JS Volmerg, CM Friedrich - JMIR mHealth and uHealth, 2019 - mhealth.jmir.org
 https://mhealth.jmir.org/2019/4/e10967/</p>
+<p>Aggarwal, R., & Singhal, A. 2019. Augmented Reality and its effect on our life. 2019 9th International Conference on Cloud Computing, Data Science & Engineeering Confluence. doi:10.1109/comfluence.2019.87</p>
+<p>Tulane. N.D. What's the Difference between AR and VR? Retrieved from: https://sopa.tulane.edu/blog/whats-difference-between-ar-and-vr</p>
