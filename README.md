@@ -50,19 +50,6 @@ ability to let teachers add gaming aspects to enhance textbook material and demo
 concepts, classroom learning can become more engaging and remarkable to student</p>
 
 <h1>Augmented Reality as a Disruptive Technology</h1>
-
-<p>In the age of widespread technology use, the incorportation of Augmented Reality into our daily lives prompts
-concerns regarding its impact on health and safety. The continious engagements with screens facilitated by AR has
-the potential to contribute to various health issues, encompassing eye diseases, mental health disorders, and problems,
-related to posture.</p>
-
-<p>As individuals immerse themselves in augmented environments, there is a risk of overlooking their immediate physical
-surroundings. This is particularly evident during travel, where the use of AR navigation techniques may introduce distractions, leading to misjudgments of the speed of approaching vehicles, underestimations of reaction time, and inadvertent disregard for real-world hazards.</p>
-
-<p>In addition, AR, along with VR, allow users to experience virtual realities in ways that were previously thought impossible, such as AR glasses allowing users
-to see digital objects. Secondly, AR allows offers new ways for its users to interact both with each other, and their envrionment through immersive processes, such as apps
-like Pokemon Go, which lets players explore the real world, while the game's digital creatures are overlayed on top of the environment.</p>
-
 <p>Disruption means more than just having lots of potential, changing how a business works, and profitability (Naisby, 2018). So, businesses need to learn more about AR to handle new technologies in the market.</p>
 <p>Bower and Christensen (1995) explain three key features of disruptive technologies:</p>
 <p>
@@ -95,10 +82,14 @@ This underscores the challenge of developing profitable business models for comp
 <p>In general, Augmented Reality (AR) holds significant promise for entering new markets, although it faces the tough requirement of providing accessible value propositions that are acceptable, even if not perfect, in some ways. 
 AR's core revolutionary abilities to generate solutions within new dimensions will undoubtedly inspire society and drive further innovations, including sustainable ones.</p>
 
-
+<p>However, in the age of widespread technology use, the incorportation of Augmented Reality into our daily lives prompts
+concerns regarding its impact on health and safety. The continious engagements with screens facilitated by AR has
+the potential to contribute to various health issues, encompassing eye diseases, mental health disorders, and problems,
+related to posture.</p>
+<p>As individuals immerse themselves in augmented environments, there is a risk of overlooking their immediate physical
+surroundings. This is particularly evident during travel, where the use of AR navigation techniques may introduce distractions, leading to misjudgments of the speed of approaching vehicles, underestimations of reaction time, and inadvertent disregard for real-world hazards.</p>
 <p>The statement emphasizing that "<i>until something bad happens, you won't know you're at greater risk of harm</i>" underscores the critical need to comprehend and address the potential negative consequences of AR technology.</p>
 
-<p>On the other hand, disruption means more than just having lots of potential, changing how a business works, and profitability (Naisby, 2018). So, businesses need to learn more about AR to handle new technologies in the market.</p>
 
 <h1>Examples of Augmented Reality In Use</h1>
 <h2>Transforming Consumer Choices and Business Sales</h2>
