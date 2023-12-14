@@ -12,14 +12,14 @@
 </p>
 <h1>Group Members:</h1>
 
-* Joel Ramon Lopez
-* Michelle Magpayo
-* Jermaine Lobo
+* Joel Ramon Lopez - <i>The difference Between Augmented Reality and Virtual Reality</i>
+* Michelle Magpayo - <i>How Does Augmented Reality Work?</i>
+* Jermaine Lobo - <i>Augmented Reality as a Disruptive Technoology</i>
 * James Patrick Magallanes
 * Elvin Marco Loja
 * Suzanne Anna Maglaque
-* Rayshanne Mariz Lindayag
-* Justine Earl Macomb
+* Rayshanne Mariz Lindayag - <i>Augmented Reality as a Disruptive Technoology</i>
+* Justine Earl Macomb - <i>Examples of Augmented Reality in Use</i>
   
 <h1>What is Augmented Reality?</h1>
 <p>Augmented Reality is defined as either a real-time direct, or indirect view of a physical real-world environment enhanced by adding computer-generated information.
@@ -60,6 +60,7 @@ to see digital objects. Secondly, AR allows offers new ways for its users to int
 like Pokemon Go, which lets players explore the real world, while the game's digital creatures are overlayed on top of the environment.</p>
 
 <p>The statement emphasizing that "<i>until something bad happens, you won't know you're at greater risk of harm</i>" underscores the critical need to comprehend and address the potential negative consequences of AR technology.</p>
+
 <h1>Examples of Augmented Reality In Use</h1>
 <p>The usage of AR is getting wider and wider. Businesses such as Ikea and L'oreal, use augmented reality to help consumers
 make a decision about buying their products and, at the same time, boost businesses’ sales. The business can
@@ -69,7 +70,11 @@ using augmented reality.
 <p>In medicine, the AR is used to help with patient care and surgical planning and
 explain difficult medical conditions to patients. The anatomy of surgical patients can be studied using AR.
 They can input their MRI and CT scan results into an augmented reality headset. The procedure will aid
-doctors in visualizing interior organs, bones, and muscles.
+doctors in visualizing interior organs, bones, and muscles.</p>
+
+<p>While in Healthcare, AR has become an increasingly integral part of it, signaling as ignificant technological intergration into the industry. The application of AR sppances various domains, including wearables, telemedicice, remote surgery, and mecial diagnosis. Enchancing patient care, streamline processes, and reducing costs is the primary objective of AR, and has shown notable advancements, showcasing its potential in the transformation of healtchcare services AR has also revolutionized both remote surgery and medical diagnosis by providing enchanced visualizations, precision, and interactive information overlay, enhacncing the surgeons' ability to interpret complex patient data.</p>
+
+<p>In education, AR Books incorporate elements such as images, animation, or intarctive features superimposed on to the physcial pages when viewed from a device, such as a smartphone or tablet. According to a study on fourth and fitth-grade students founf that reading AR books increased attention, confidence, and satisfaction, highlighting the importance of providing a multisensory and interactive narrative for a better reading motivation.</p>
 
 <h1>References</h1>
 <p>A Javornik - The Mainstreaming of Augmented Reality: A Brief History.., 2016
