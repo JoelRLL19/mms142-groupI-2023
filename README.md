@@ -61,6 +61,7 @@ like Pokemon Go, which lets players explore the real world, while the game's dig
 
 <p>The statement emphasizing that "<i>until something bad happens, you won't know you're at greater risk of harm</i>" underscores the critical need to comprehend and address the potential negative consequences of AR technology.</p>
 
+<p>On the other hand, disruption means more than just having lots of potential, changing how a business works, and profitability (Naisby, 2018). So, businesses need to learn more about AR to handle new technologies in the market.</p>
 <h1>Examples of Augmented Reality In Use</h1>
 <p>The usage of AR is getting wider and wider. Businesses such as Ikea and L'oreal, use augmented reality to help consumers
 make a decision about buying their products and, at the same time, boost businesses’ sales. The business can
