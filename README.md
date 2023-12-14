@@ -86,7 +86,7 @@ This underscores the challenge of developing profitable business models for comp
 AR's core revolutionary abilities to generate solutions within new dimensions will undoubtedly inspire society and drive further innovations, including sustainable ones.</p>
 
 <h2>Issues with AR</h2>
-<p>n the age of widespread technology use, the incorportation of Augmented Reality into our daily lives prompts
+<p>In the age of widespread technology use, the incorportation of Augmented Reality into our daily lives prompts
 concerns regarding its impact on health and safety. The continious engagements with screens facilitated by AR has
 the potential to contribute to various health issues, encompassing eye diseases, mental health disorders, and problems,
 related to posture.</p>
