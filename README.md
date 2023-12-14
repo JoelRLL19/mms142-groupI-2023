@@ -50,13 +50,15 @@ ability to let teachers add gaming aspects to enhance textbook material and demo
 concepts, classroom learning can become more engaging and remarkable to student</p>
 
 <h1>Augmented Reality as a Disruptive Technology</h1>
-<p>Disruption means more than just having lots of potential, changing how a business works, and profitability (Naisby, 2018). So, businesses need to learn more about AR to handle new technologies in the market.</p>
+<h2>Defining Disruption</h2>
+<p>Disruption means more than just having lots of potential, changing how a business works, and profitability (Naisby, 2018).</p>
 <p>Bower and Christensen (1995) explain three key features of disruptive technologies:</p>
 <p>
 <p>•	These innovations may offer different qualities compared to existing solutions and may perform worse in one or two aspects that current customers of established companies value.</p>
 <p>•	These innovations might not seem financially appealing to established companies.</p>
 <p>•	Lastly, predicting the future market and understanding these disruptive innovations can be hard, which increases the risk and makes them less financially attractive.</p>
 <p>Like Christensen's concept of disruptive innovation, Schumpeter (1934) talks about a process where innovations replace old ones that become outdated. Schumpeter refers to this process as "creative destruction."</p>
+<h2>AR's Disruptive Potential</h2>
 <p>Although Augmented Reality has the potential to revolutionize the way people interact with their environment, there are several aspects where AR can potentially be
 considered a disruptive technology.</p>
 <p>First and foremost, AR, along with VR, allow users to experience virtual realities in ways that were previously thought impossible, such as AR glasses like Google Glass in 2013. 
@@ -66,8 +68,8 @@ Craig (2013) states that the primary goal of AR is to "generate stimuli that mak
 like Pokemon Go, which lets players explore the real world, while the game's digital creatures are overlayed on top of the environment. Over the past few years, Android and iOS phones have been capable of running AR applications, 
 and with each new iteration, they become increasingly potent due to significant investments in the technology, particularly by manufacturers like Apple (Zade, 2020).</p>
 <p>Lastly, there exists Spatial Augmented Reality (SAR) or projection mapping, which operates without handheld or head-mounted devices. SAR employs digital projectors to project visual content onto tangible objects.</p>
-
-<p>Now, getting back to the three potential characteristics of disruptive technologies by Bower and Christensen (1995), let's relate them to Augmented Reality (AR) in a broader sense.</p>
+<h2>Applying Bower and Christensen's Ideas to AR</h2>
+<p>Getting back to the three potential characteristics of disruptive technologies by Bower and Christensen (1995), let's relate them to Augmented Reality (AR) in a broader sense.</p>
 <p>•	Different Set of Attributes</p>
 <p>Considering the concept of AR, it facilitates interactive information interaction akin to real-world engagement but in a digital format. This proposition suggests novel elements, facets, and ways to generate value. 
 However, these aspects are not ones that companies and consumers are accustomed to either selling or utilizing. Christensen (1997) described this as innovations that don't align with existing customer demands, 
