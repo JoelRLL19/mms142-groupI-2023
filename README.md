@@ -89,5 +89,9 @@ https://synapse.koreamed.org/articles/1044286</p>
 https://elearningindustry.com/augmented-reality-in-education-staggering-insight-into-fut</p>
 <p>M Eckert, JS Volmerg, CM Friedrich - JMIR mHealth and uHealth, 2019 - mhealth.jmir.org
 https://mhealth.jmir.org/2019/4/e10967/</p>
-<p>Aggarwal, R., & Singhal, A. 2019. Augmented Reality and its effect on our life. 2019 9th International Conference on Cloud Computing, Data Science & Engineeering Confluence. doi:10.1109/comfluence.2019.87</p>
+<p>Aggarwal, R., & Singhal, A. (2019). Augmented Reality and its effect on our life. 2019 9th International Conference on Cloud Computing, Data Science & Engineering (Confluence). doi:10.1109/confluence.2019.87</p>
 <p>Tulane. N.D. What's the Difference between AR and VR? Retrieved from: https://sopa.tulane.edu/blog/whats-difference-between-ar-and-vr</p>
+<p>Roumba, E. (2022). Augmented reality books: Motivation, attitudes, and behaviors of young readers. International Journal of Interactive Mobile Technologies (iJIM), 16(16), 59–73. https://doi.org/10.3991/ijim.v16i16.31741</p>
+<p>Ferrari, V., Klinker, G., & Cutolo, F. (2019). Augmented reality in Healthcare. Journal of Healthcare Engineering, 2019, 1–2. https://doi.org/10.1155/2019/9321535</p>
+<p>Augmented reality and tourism: The New Travel experience. Onirix. (2023, May 12). https://www.onirix.com/augmented-reality-and-tourism-the-new-travel-experience/ </p>
+<p>Hayes, A. (n.d.). Augmented reality (AR) defined, with examples and uses. Investopedia. https://www.investopedia.com/terms/a/augmented-reality.asp#:~:text=Augmented%20reality%20either%20makes%20visual,and%20industrial%20manufacturing%2C%20among%20others.</p>
