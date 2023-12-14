@@ -115,7 +115,7 @@ doctors in visualizing interior organs, bones, and muscles.</p>
 
 <p>(embed image or YT vid here)</p>
 <h2>Support for People with Disability</h2>
-<p>Millions of individuals worldwide, including both children and adults facing significant communication challenges, rely on augmentative and alternative communication (AAC) systems. These systems, which encompass visual aids, 
+<p>Millions of individuals worldwide, including both children and adults facing significant communication challenges relies on augmentative and alternative communication (AAC) systems. These systems, which encompass visual aids, 
 offer a way for them to engage with the world. These communication tools play a crucial role in facilitating social interactions, communication, education, and work engagement, especially for individuals with neurodevelopmental 
 disabilities.</p>
 <p>Kang and Chang conducted a study where they used an AR game displayed on an iPhone screen to teach three teenagers with intellectual disabilities how to perform a task on a simulated Automatic Teller Machine (ATM). 
