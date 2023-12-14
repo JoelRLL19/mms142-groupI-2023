@@ -56,7 +56,7 @@ concepts, classroom learning can become more engaging and remarkable to student<
 <p>
 <p>•	These innovations may offer different qualities compared to existing solutions and may perform worse in one or two aspects that current customers of established companies value.</p>
 <p>•	These innovations might not seem financially appealing to established companies.</p>
-<p>•	Lastly, predicting the future market and understanding these disruptive innovations can be hard, which increases the risk and makes them less financially attractive.</p>
+<p>•	Predicting the future market and understanding these disruptive innovations can be hard, which increases the risk and makes them less financially attractive.</p>
 <p>Like Christensen's concept of disruptive innovation, Schumpeter (1934) talks about a process where innovations replace old ones that become outdated. Schumpeter refers to this process as "creative destruction."</p>
 <h2>AR's Disruptive Potential</h2>
 <p>Although Augmented Reality has the potential to revolutionize the way people interact with their environment, there are several aspects where AR can potentially be
