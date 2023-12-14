@@ -30,7 +30,7 @@ between humans and machines, bridging the digital and physical worlds.</p>
 <h1>The Difference Between Augmented Reality and Virtual Reality</h1>
 
 <p>At first glance, Augmented Reality and Virtual Reality may seem the same, and easy to mix up the two, there are actually some key difference between both. The main difference being that AR uses a real world setting, and allows its user to control their presence in the real world, while in VR, it is completely virtual, and is controlled by a system. In addition, AR enchance both the virtual and real world, while VR only enchances a fictional reality.</p>
-=======
+
 <p>At first glance, Augmented Reality and Virtual Reality may seem the same, the distinctions between the two come down to the devices required to both experiences. </p>
 <p>(embed image here)</p>
 
