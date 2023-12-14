@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <img src="https://github.com/JoelRLL19/mms142-groupI-2023/assets/151889512/e77e0114-694a-4260-a31e-b8518675243b" width="400" height="250">
-</p>
+</p> 
 <p align="center">
 <b>Augmented Reality:</b>
 </p>
