@@ -57,7 +57,7 @@ concepts, classroom learning can become more engaging and remarkable to student<
 <p>•	These innovations may offer different qualities compared to existing solutions and may perform worse in one or two aspects that current customers of established companies value.</p>
 <p>•	These innovations might not seem financially appealing to established companies.</p>
 <p>•	Predicting the future market and understanding these disruptive innovations can be hard, which increases the risk and makes them less financially attractive.</p>
-<p>Like Christensen's concept of disruptive innovation, Schumpeter (1934) talks about a process where innovations replace old ones that become outdated. Schumpeter refers to this process as "creative destruction."</p>
+
 <h2>AR's Disruptive Potential</h2>
 <p>Although Augmented Reality has the potential to revolutionize the way people interact with their environment, there are several aspects where AR can potentially be
 considered a disruptive technology.</p>
@@ -68,6 +68,7 @@ Craig (2013) states that the primary goal of AR is to "generate stimuli that mak
 like Pokemon Go, which lets players explore the real world, while the game's digital creatures are overlayed on top of the environment. Over the past few years, Android and iOS phones have been capable of running AR applications, 
 and with each new iteration, they become increasingly potent due to significant investments in the technology, particularly by manufacturers like Apple (Zade, 2020).</p>
 <p>Lastly, there exists Spatial Augmented Reality (SAR) or projection mapping, which operates without handheld or head-mounted devices. SAR employs digital projectors to project visual content onto tangible objects.</p>
+
 <h2>Applying Bower and Christensen's Ideas to AR</h2>
 <p>Getting back to the three potential characteristics of disruptive technologies by Bower and Christensen (1995), let's relate them to Augmented Reality (AR) in a broader sense.</p>
 <p>•	Different Set of Attributes</p>
