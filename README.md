@@ -102,7 +102,7 @@ make a decision about buying their products and, at the same time, boost busines
 decrease return rates and increase customer satisfaction by enabling users to test out a significant purchase
 using augmented reality.</p>
 <p align="center">
-  <img src="AR Images/ar business.JPG" width="400" height="250"</p>
+  <img src="AR Images/ar business.JPG" width="400" height="250"></p>
 
   <h2>Enhancing Patient Care</h2>
 <p>In medicine, the AR is used to help with patient care and surgical planning and
