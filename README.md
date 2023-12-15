@@ -116,6 +116,9 @@ doctors in visualizing interior organs, bones, and muscles.</p>
 
 <h2>Augmented Reality in Education</h2>
 <p>In education, AR Books incorporate elements such as images, animation, or intarctive features superimposed on to the physcial pages when viewed from a device, such as a smartphone or tablet. According to a study on fourth and fitth-grade students founf that reading AR books increased attention, confidence, and satisfaction, highlighting the importance of providing a multisensory and interactive narrative for a better reading motivation.</p>
+<p align="center">
+  <img src="AR Images/ar school.JPG" width="400" height="250">
+</p> 
 
 <h2>Support for People with Disability</h2>
 <p>Millions of individuals worldwide, including both children and adults facing significant communication challenges relies on augmentative and alternative communication (AAC) systems. These systems, which encompass visual aids, 
