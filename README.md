@@ -160,7 +160,8 @@ similar to Pokémon Go (Blanco, 2022).</p>
 <p>In the Philippines, ManilART, the country's longest-running visual art fair is showcasing the future by focusing on "phygital" art which combines both physical and digital aspects, along with new media. 
 The exhibition features works by artists like Romulo Galicano, Ramon Orlina, and Bell Sison. They're using augmented reality to bring 3D-modeled sculptures to life by placing them in real-world settings. 
 This creates an "enhanced view" where the art seems to come alive beyond the confines of its frame (Ebdane, 2022).</p>
-
+<p align="center">
+  <img src="AR Images/ManilART.png" width="400" height="250"></p>
 
 
 
