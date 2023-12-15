@@ -111,9 +111,12 @@ doctors in visualizing interior organs, bones, and muscles.</p>
 
 <p>While in Healthcare, AR has become an increasingly integral part of it, signaling as ignificant technological intergration into the industry. The application of AR sppances various domains, including wearables, telemedicice, remote surgery, and mecial diagnosis. Enchancing patient care, streamline processes, and reducing costs is the primary objective of AR, and has shown notable advancements, showcasing its potential in the transformation of healtchcare services AR has also revolutionized both remote surgery and medical diagnosis by providing enchanced visualizations, precision, and interactive information overlay, enhacncing the surgeons' ability to interpret complex patient data.</p>
 
+<p align="center">
+  <img src="AR Images/ar medical.JPG" width="400" height="250"></p>
+
+<h2>Augmented Reality in Education</h2>
 <p>In education, AR Books incorporate elements such as images, animation, or intarctive features superimposed on to the physcial pages when viewed from a device, such as a smartphone or tablet. According to a study on fourth and fitth-grade students founf that reading AR books increased attention, confidence, and satisfaction, highlighting the importance of providing a multisensory and interactive narrative for a better reading motivation.</p>
 
-<p>(embed image or YT vid here)</p>
 <h2>Support for People with Disability</h2>
 <p>Millions of individuals worldwide, including both children and adults facing significant communication challenges relies on augmentative and alternative communication (AAC) systems. These systems, which encompass visual aids, 
 offer a way for them to engage with the world. These communication tools play a crucial role in facilitating social interactions, communication, education, and work engagement, especially for individuals with neurodevelopmental 
