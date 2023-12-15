@@ -101,6 +101,7 @@ surroundings. This is particularly evident during travel, where the use of AR na
 make a decision about buying their products and, at the same time, boost businesses’ sales. The business can
 decrease return rates and increase customer satisfaction by enabling users to test out a significant purchase
 using augmented reality.</p>
+
 <p align="center">
   <img src="AR Images/ar business.JPG" width="400" height="250"></p>
 
