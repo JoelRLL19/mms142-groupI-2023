@@ -103,7 +103,8 @@ decrease return rates and increase customer satisfaction by enabling users to te
 using augmented reality.</p>
 <p align="center">
   <img src="AR Images/ar business.JPG" width="400" height="250"</p>
-<h2>Enhancing Patient Care</h2>
+
+  <h2>Enhancing Patient Care</h2>
 <p>In medicine, the AR is used to help with patient care and surgical planning and
 explain difficult medical conditions to patients. The anatomy of surgical patients can be studied using AR.
 They can input their MRI and CT scan results into an augmented reality headset. The procedure will aid
