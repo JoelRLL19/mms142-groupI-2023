@@ -151,6 +151,7 @@ participants compared to other digital or paper-based navigational aids (Bryant 
 <p>Another example is these special glasses that use augmented reality to show written words of conversations happening in real time. This could be helpful for people who can't hear well. The XRAI Glass software changes spoken words 
 into text, and then it appears inside the glasses for them to read.</p>
 <p>(will embed the YT vid here)</p>
+
 <h2>Generates New Cultural and Touristic Experiences</h2>
 <p>One significant application of augmented reality in museums is providing extra information alongside exhibits. Users can use their phones to view artworks, trigger text, a virtual guide, or an animated experience to 
 appear in front of them. This way, they're not reliant on guided tours and can create their personalized visit. Museums can even add fun elements like creating an app that turns finding artworks into a game, 
@@ -159,7 +160,8 @@ similar to Pokémon Go (Blanco, 2022).</p>
 <p>In the Philippines, ManilART, the country's longest-running visual art fair is showcasing the future by focusing on "phygital" art which combines both physical and digital aspects, along with new media. 
 The exhibition features works by artists like Romulo Galicano, Ramon Orlina, and Bell Sison. They're using augmented reality to bring 3D-modeled sculptures to life by placing them in real-world settings. 
 This creates an "enhanced view" where the art seems to come alive beyond the confines of its frame (Ebdane, 2022).</p>
-<p>(will embed image here)</p>
+
+
 
 
 <h1>References</h1>
