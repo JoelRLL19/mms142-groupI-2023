@@ -15,7 +15,7 @@
 * Joel Ramon Lopez - <i>The difference Between Augmented Reality and Virtual Reality</i>
 * Michelle Magpayo - <i>How Does Augmented Reality Work?</i>
 * Jermaine Lobo - <i>Augmented Reality as a Disruptive Technoology</i>
-* James Patrick Magallanes
+* James Patrick Magallanes - <i>AR Consumption Revolution<i>
 * Elvin Marco Loja
 * Suzanne Anna Maglaque
 * Rayshanne Mariz Lindayag - <i>Augmented Reality as a Disruptive Technoology</i>
@@ -84,6 +84,25 @@ The research conducted by Frodell and Olivegren (2020) highlighted that few enti
 This underscores the challenge of developing profitable business models for companies focusing exclusively on AR.</p>
 <p>In general, Augmented Reality (AR) holds significant promise for entering new markets, although it faces the tough requirement of providing accessible value propositions that are acceptable, even if not perfect, in some ways. 
 AR's core revolutionary abilities to generate solutions within new dimensions will undoubtedly inspire society and drive further innovations, including sustainable ones.</p>
+
+<h1>AR Consumption Revolution<h1>
+
+<p>In the landscape of technological advancement, the trajectory of augmented reality (AR) suggests its emergence as a mainstream medium with the potential to reshape marketing and management strategies. An intriguing question surfaces: Will AR render existing physical products and services obsolete? Philipp A. Rauschnabel's article embarks on a comprehensive exploration of AR marketing, drawing insights from four extensive studies involving over 2,000 respondents. The primary focus is to uncover consumer attitudes towards holographic AR substitutes for tangible products (Rauschnabel, 2021).<p>
+
+<h2>Current State and Future Potential<h2>
+<p>In the midst of consistent forecasts predicting AR's ascent as a mass medium, current research predominantly delves into narrow aspects of AR, such as user perceptions and responses to specific AR content. A crucial gap exists in visionary research that contemplates the broader societal and industrial implications of AR. This study takes a radical, future-oriented approach, treating AR not merely as an auxiliary tool but as a potential disruptor that could replace elements of our physical world (Rauschnabel, 2021).<p>
+
+<h2>Systematic Analysis of Substitutability<h2>
+<p>Compelling findings emerge from the research. Products, ranging from Post-it notes to manuals and navigation technology, exhibit relatively high acceptance rates for holographic AR substitution. Conversely, certain categories like pets and memorabilia display lower acceptance. The systematic analysis indicates that highly substitutable products share characteristics such as utilitarian benefits, digitization, and reduced symbolism, visibility, or ornamentation. Interestingly, expensive items do not necessarily receive higher substitution scores, challenging preconceptions and suggesting that consumers perceive AR substitutes as a distinct product category (Rauschnabel, 2021).<p>
+
+<h2>Consumer Responses and Segment Variations<h2>
+<p>A detailed examination of consumer responses reveals distinct patterns. Demographic factors such as gender and age, as well as personal AR vision, influence openness to AR substitutes. Younger males, irrespective of financial status, demonstrate greater receptiveness. Consumers with a clear personal vision of AR's impact on their lives also display higher acceptance. Additionally, those inclined towards digital substitutes, exemplified by a preference for e-books over physical books, express greater openness to AR substitutes (Rauschnabel, 2021).<p>
+
+<h2>AR's Role in Shaping Future Experiences<h2>
+<p>As the world stands on the brink of potential mass AR adoption, the article considers the transformative role of AR in shaping future consumer experiences. Rather than a mere communication gimmick, AR emerges as a potent disruptor that challenges the dichotomy between physical and virtual realms. Leading IT companies' announcements regarding technologies capable of offering realistic substitutes underscore the imminent nature of this transformative shift (Rauschnabel, 2021).<p>
+
+<h2>Will AR render existing physical products and services obsolete?<h2>
+<p>While a definitive answer to whether AR will dominate the real world remains elusive, consumer openness to transformative developments is evident. AR's potential to virtualize various physical goods marks a paradigm shift akin to the first digital revolution's digitization of information. Academics and managers are urged to view AR not just as a communication tool but as a potential disruptor with far-reaching implications.<p>
 
 <h2>Issues with AR</h2>
 <p>In the age of widespread technology use, the incorportation of Augmented Reality into our daily lives prompts
@@ -171,3 +190,4 @@ https://mhealth.jmir.org/2019/4/e10967/</p>
 <p>Ebdane, A. (2022, October 22). ‘Phygital’ art, augmented reality take center stage at ManilART 2022. RAPPLER. https://www.rappler.com/life-and-style/arts-culture/phygital-art-augmented-reality-take-centerstage-manilart-2022/</p>
 <p>South China Morning Post. (2022, July 29). Live-caption glasses let deaf people read conversations using augmented reality [Video]. YouTube. https://www.youtube.com/watch?v=LauvOTnZMZg</p>
 
+<p>Rauschnabel, P. A. (2021). Augmented reality is eating the real-world! The substitution of physical products by holograms. International Journal of Information Management, 57, 102279. https://doi.org/10.1016/j.ijinfomgt.2020.102279<p>
