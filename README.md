@@ -166,7 +166,7 @@ considered a disruptive technology.</b>
 <p>•	Predicting the future market and understanding these disruptive innovations can be hard, which increases the risk and makes them less financially attractive.</p>
 
 <h2>Applying Bower and Christensen's Ideas to AR</h2>
-<b>Getting back to the three potential characteristics of disruptive technologies by Bower and Christensen (1995), let's relate them to Augmented Reality (AR) in a broader sense.</b>
+<b>Now, let's link Augmented Reality (AR) to the three key traits of disruptive technologies that Bower and Christensen talked about in 1995.</b>
 <p>   </p>
 <p>•	Different Set of Attributes</p>
 <p>Considering the concept of AR, it facilitates interactive information interaction akin to real-world engagement but in a digital format. This proposition suggests novel elements, facets, and ways to generate value. 
@@ -179,6 +179,7 @@ Essentially, several applications may require considerable investment from busin
 <p>Moreover, supporting the notion of financial unattractiveness are the uncertain and modest revenue potentials outlined by Christensen (1997). This aligns with the current market scenario and major industry participants. 
 The research conducted by Frodell and Olivegren (2020) highlighted that few entities derive substantial profits solely from AR applications, particularly outside the realm of entertainment. 
 This underscores the challenge of developing profitable business models for companies focusing exclusively on AR.</p>
+<p>In general, Augmented Reality (AR) holds significant promise for entering new markets, although it faces the tough requirement of providing accessible value propositions that are acceptable, even if not perfect, in some ways. AR's core revolutionary abilities to generate solutions within new dimensions will undoubtedly inspire society and drive further innovations, including sustainable ones.</p>
 
 <h1>Conclusion</h1>
 <p>Throughout the entirety of Group I's research, we learned that Augmented Reality (AR) stands as a transformative force, bridging the divide between the physical and digital realms. It enriches various sectors, revolutionizing industries, healthcare, education, entertainment, and even military applications. By intertwining real-world settings with digital overlays, AR enhances experiences and capabilities, showcasing its immense potential.</p>
@@ -186,7 +187,7 @@ This underscores the challenge of developing profitable business models for comp
 <p>We also find out that the integration of AR into daily life also raises concerns. Health and safety issues, such as increased screen time and distractions leading to potential hazards warrant careful consideration. As with any emerging technology, understanding and mitigating these challenges are essential for responsible and sustainable deployment.</p>
 <p>And to end this, the potential for AR as a disruptive technology is evident in this research. While it offers unique attributes and possibilities, its widespread adoption and profitability in certain markets remain uncertain. The need for accessible value propositions and profitable business models is crucial for its continued growth and acceptance. In essence, Augmented Reality continues to reshape our perception of reality, promising a future where the physical and digital realms converge seamlessly, unlocking innovative possibilities and enriching various facets of our lives.</p>
 
-<h1>Group Members with their Contribution:</h1>
+<h2>Group Members with their Contribution:</h2>
 
 * Joel Ramon Lopez - <i>What is Augmented Reality?</i>, <i>The Difference Between Augmented Reality and Virtual Reality</i>
 * Michelle Magpayo - <i>How Does Augmented Reality Work?</i>
