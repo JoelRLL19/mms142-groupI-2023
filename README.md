@@ -22,12 +22,11 @@
 * Justine Earl Macomb - <i>Examples of Augmented Reality in Use (Education and Healthcare)</i>
   
 <h1>What is Augmented Reality?</h1>
-<p>Augmented Reality (AR) is a technology that combines digital image and information with the real-time views of the physical environment. AR bridges the digital and physical world, transforming data management and collection within the interent. While AR limits user imagination, AR simlultaneously allows the discovery of 3D worlds, and allows for simultaneous interactions between humans and machines.</p>
+<p>Augmented Reality (AR) is defined as either a real-time direct, or indirect view technology that combines digital image and information with the real-time views of the physical environment. AR bridges the digital and physical world, transforming data management and collection within the interent. While AR limits user imagination, AR simlultaneously allows the discovery of 3D worlds, and allows for simultaneous interactions between humans and machines.</p>
 
 <h1>The Difference Between Augmented Reality and Virtual Reality</h1>
 
 <p>At first glance, Augmented Reality and Virtual Reality may seem the same, and easy to mix up the two, there are actually some key difference between both. The main difference being that AR uses a real world setting, and allows its user to control their presence in the real world, while in VR, it is completely virtual, and is controlled by a system. In addition, AR enchance both the virtual and real world, while VR only enchances a fictional reality.</p>
-
 <p>In addition, Augmented Reality enchances real-life situations using both data and animations, requiring a mobile cellphone for simple usage, while Virtual Reality requires the the use of both the user's vision and hearing to cover the entire scenarion.</p>
 
 <p align="center">
@@ -35,20 +34,13 @@
 </p>
 
 <h1>How Does Augmented Reality Work?</h1>
-<p>Ivan Sutherland, an American Computer Scientist who is known as the "<i>Father of Computer Graphics</i>", developed the first
+
+<p>Ivan Sutherland, an American Computer Scientist known as the "<i>Father of Computer Graphics</i>", developed the first
 augmented reality (AR) system in 1968 at Harvard. The universities, businesses, and government
 organizations continued to enhance augmented reality for wearables and digital displays throughout the
-ensuing decades. Pokémon Go, released in 2016, is an example of augmented reality in use where players travel through the
-real world while following a digital map in search of virtual creatures that appear at random. 
-  
-<p>In medicine, the AR is used to help with patient care and surgical planning and
-explain difficult medical conditions to patients. The anatomy of surgical patients can be studied using AR.
-They can input their MRI and CT scan results into an augmented reality headset. The procedure will aid
-doctors in visualizing interior organs, bones, and muscles. Moreover, the augmented reality (AR) movement
-is booming, and it is predicted that 2.4 billion mobile users will use AR globally by 2023, according to Shweta
-Sinha research study. Another important field where this technology might shine is education. Due to AR's
-ability to let teachers add gaming aspects to enhance textbook material and demonstrate virtual instances of
-concepts, classroom learning can become more engaging and remarkable to student</p>
+ensuing decades.</p>
+
+<p>AR delivers visual elements, sound, and other sensroy information to the user through devices like smartphones, tablets, glasses, and even contact lenses. The information is overlaid on the devices to create an interwoven 3D experience where the digital dat alters and/or improves the user's perception of the real world. AR apps are written in special 3D programs that enable developers to tie either animation, or contextual digital infromation in the program ro an augmented reality maker in the real world. When the computing device's AR app or browser plugin receives the digital information from a known marker,  it begins to execute the maker's code, and layers the correct images. Because the technology requires hardware components such as processors, sensors, displays, and input devices, mobile phones are a great example for AR usage, through its sensors including cameras, accelometers, Global Positioning System (GPS), and solid-state compasses, help make AR more accessible to users in their daily lives. For example, a GPS pinopints the user's location, and its compass detects the device's orientation.</p>
 
 <h1>Augmented Reality as a Disruptive Technology</h1>
 <h2>Defining Disruption</h2>
@@ -124,7 +116,14 @@ using augmented reality.</p>
 <p align="center">
   <img src="AR Images/ar business.JPG" width="400" height="250"></p>
 
-  <h2>Enhancing Patient Care</h2>
+<h2>Military Usage</h2>
+<p>Because warfare is continious, and constantly evolving, armies have to keep up with the newest military "trends" and look for opportunities to be ahead in the technological war. AR usage in military has grown exponentionally due to data and graphics processng advance,emts, enhancing combat skills through simulation of vehicles, soldiers, and combat environments,</p>
+
+* Tactical Augmented Reality (TAR)
+  <p>The United States Army uses TAR to improve situational awareness. All crucial imformation like spatial orientation data, weapons target are being superimposes onto the pilot's visor ro avoic looking down on their panels, having a much better assessment of their situations and surroundings. In a way, TAR looks similar to the night-vision goggles (NVG) that offers the same features.</p>
+  <p>TAR operates both night and day, and can show soldiers their exact location as well the positions of both allied and enemy forces. TAR's display can also be split into two - one for aiming, and the second for from the frontal camera mounted on the helmet, to avoid the rick of a headshor. Moreover, TAR keeps soldiers both informed and aler because of its own wireless network, allowing soldiers to share information among either squad members, or inputting data whenever the situation changes.</p>
+
+<h2>Enhancing Patient Care</h2>
 <p>In medicine, the AR is used to help with patient care and surgical planning and
 explain difficult medical conditions to patients. The anatomy of surgical patients can be studied using AR.
 They can input their MRI and CT scan results into an augmented reality headset. The procedure will aid
