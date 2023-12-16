@@ -167,6 +167,16 @@ This creates an "enhanced view" where the art seems to come alive beyond the con
 <p align="center">
   <img src="AR Images/ManilART.png" width="400" height="250"></p>
 
+<h2>Entertainment Using AR</h2>
+<p>In the entertainment industry, AR is used in a variety of ways including enhancing live events, creating more immersive and interactive vieweing experiences for movies and TV, and creating more realistic and immersive video game experiences.</p>
+
+* Games
+  <p>AR in games utlizes a combination of computer vision, AI, and sensor dare to bring the real workd into the gaming space, with examples including Pokemon Go, The Walking Dead: Our World, and Ingress.</p>
+* Music
+  <p>In 2019, English rock band Muse used AR technology to creare an immersive live music experience during their Simulation Theory Tour. Using AR headsets, Muse was able to project interactive visual elements ontohte stage, allowing the audience to see and hear the music innovatively. AR allowed the band to create a unique and unforgettable live event, especially for their fans.</p>
+* Sports
+  <p>Similar to the the military, AR is used in sports for training in coaching. The Kansas City Chiefs of the NFL used AR technology to create a virtual training ground for their players, allowing the team to design both a realisic and immersive training environment, allowing their players to both practice and improve their skills more efficiently.</p>
+
 <h1>References</h1>
 <p>A Javornik - The Mainstreaming of Augmented Reality: A Brief History.., 2016
 https://hbr.org/2016/10/the-mainstreaming-of-augmented-reality-a-briefhistory#:~:text=The%20first%20AR%20technology%20was,for%20wearables%20and%20digital%20displays.</p>
