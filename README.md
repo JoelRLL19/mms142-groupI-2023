@@ -14,12 +14,12 @@
 
 * Joel Ramon Lopez - <i>What is Augmented Reality?</i>, <i>The Difference Between Augmented Reality and Virtual Reality</i>
 * Michelle Magpayo - <i>How Does Augmented Reality Work?</i>
-* Jermaine Lobo - <i>Augmented Reality as a Disruptive Technoology</i>
+* Jermaine Lobo - <i>Augmented Reality as a Disruptive Technoology</i>,  <i>Examples of Augmented Reality in Use (Disability and Tourism)</i>
 * James Patrick Magallanes - <i>AR Consumption Revolution<i>
-* Elvin Marco Loja - <i>What is Augmented Reality?</i>, <i>The Difference Between Augmented Reality and Virtual Reality</i>
-* Suzanne Anna Maglaque
+* Elvin Marco Loja - <i>What is Augmented Reality?</i>, <i>The Difference Between Augmented Reality and Virtual Reality</i>, <i>Examples of Augmented Reality in Use (Dentistry)</i>
+* Suzanne Anna Maglaque - <i>How Does Augmented Reality Work?</i>, <i>Examples of Augmented Reality in Use (Military and Entertainment)</i>
 * Rayshanne Mariz Lindayag - <i>Augmented Reality as a Disruptive Technoology</i>
-* Justine Earl Macomb - <i>Examples of Augmented Reality in Use</i>
+* Justine Earl Macomb - <i>Examples of Augmented Reality in Use (Education and Healthcare)</i>
   
 <h1>What is Augmented Reality?</h1>
 <p>Augmented Reality (AR) is a technology that combines digital image and information with the real-time views of the physical environment. AR bridges the digital and physical world, transforming data management and collection within the interent. While AR limits user imagination, AR simlultaneously allows the discovery of 3D worlds, and allows for simultaneous interactions between humans and machines.</p>
