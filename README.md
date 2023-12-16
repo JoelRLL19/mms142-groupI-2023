@@ -187,7 +187,7 @@ This underscores the challenge of developing profitable business models for comp
 <p>We also find out that the integration of AR into daily life also raises concerns. Health and safety issues, such as increased screen time and distractions leading to potential hazards warrant careful consideration. As with any emerging technology, understanding and mitigating these challenges are essential for responsible and sustainable deployment.</p>
 <p>And to end this, the potential for AR as a disruptive technology is evident in this research. While it offers unique attributes and possibilities, its widespread adoption and profitability in certain markets remain uncertain. The need for accessible value propositions and profitable business models is crucial for its continued growth and acceptance. In essence, Augmented Reality continues to reshape our perception of reality, promising a future where the physical and digital realms converge seamlessly, unlocking innovative possibilities and enriching various facets of our lives.</p>
 
-<h2>Group Members with their Contribution:</h2>
+<h2>Group Members with their Contributions:</h2>
 
 * Joel Ramon Lopez - <i>What is Augmented Reality?</i>, <i>The Difference Between Augmented Reality and Virtual Reality</i>
 * Michelle Magpayo - <i>How Does Augmented Reality Work?</i>
