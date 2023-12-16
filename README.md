@@ -10,16 +10,19 @@
 <p align="center">
 <b>Transforming How We Interact With Our Environment</b>
 </p>
-<h1>Group Members:</h1>
 
-* Joel Ramon Lopez - <i>What is Augmented Reality?</i>, <i>The Difference Between Augmented Reality and Virtual Reality</i>
-* Michelle Magpayo - <i>How Does Augmented Reality Work?</i>
-* Jermaine Lobo - <i>Augmented Reality as a Disruptive Technoology</i>,  <i>Examples of Augmented Reality in Use (Disability and Tourism)</i>
-* James Patrick Magallanes - <i>AR Consumption Revolution<i>
-* Elvin Marco Loja - <i>What is Augmented Reality?</i>, <i>The Difference Between Augmented Reality and Virtual Reality</i>, <i>Examples of Augmented Reality in Use (Dentistry)</i>
-* Suzanne Anna Maglaque - <i>How Does Augmented Reality Work?</i>, <i>Examples of Augmented Reality in Use (Military and Entertainment)</i>
-* Rayshanne Mariz Lindayag - <i>Augmented Reality as a Disruptive Technoology</i>
-* Justine Earl Macomb - <i>Examples of Augmented Reality in Use (Education and Healthcare)</i>
+<h1>Introduction</h1>
+<p>Imagine if a tiny device had the power to revolutionize our understanding, like a magical wand that opens gateways to an entirely different realm. And what if we told you that there's a possibility that this innovative potential is already within your grasp—right in the palm of your hand, concealed in your phone.</p>
+<p>With that, this research by Group I underscores AR's transformative potential in seamlessly integrating digital enhancements into real-world environments, reshaping perceptions and capabilities. However, alongside its vast promise, this research underscores concerns regarding health, safety, and uncertainties regarding widespread adoption and profitability. Ultimately, this research will also discussed how Augmented Reality stands as a disruptive force, offering innovative possibilities while necessitating careful consideration and strategic approaches for sustainable integration and evolution in various sectors.</p>
+<h3>Table of Contents:</h3>
+<p>1. What is Augmented Reality?</p>
+<p>2. The Difference Between Augmented Reality and Virtual Reality</p>
+<p>3. How Does Augmented Reality Work?</p>
+<p>4. Examples of Augmented Reality In Use</p>
+<p>5. Issues with AR</p>
+<p>6. AR Consumption Revolution</p>
+<p>7. Augmented Reality as a Disruptive Technology</p>
+<p>8. Conclusion</p>
   
 <h1>What is Augmented Reality?</h1>
 <p>Augmented Reality (AR) is defined as either a real-time direct, or indirect view technology that combines digital image and information with the real-time views of the physical environment. AR bridges the digital and physical world, transforming data management and collection within the interent. While AR limits user imagination, AR simlultaneously allows the discovery of 3D worlds, and allows for simultaneous interactions between humans and machines.</p>
@@ -176,9 +179,23 @@ Essentially, several applications may require considerable investment from busin
 <p>Moreover, supporting the notion of financial unattractiveness are the uncertain and modest revenue potentials outlined by Christensen (1997). This aligns with the current market scenario and major industry participants. 
 The research conducted by Frodell and Olivegren (2020) highlighted that few entities derive substantial profits solely from AR applications, particularly outside the realm of entertainment. 
 This underscores the challenge of developing profitable business models for companies focusing exclusively on AR.</p>
-<p>In general, Augmented Reality (AR) holds significant promise for entering new markets, although it faces the tough requirement of providing accessible value propositions that are acceptable, even if not perfect, in some ways. 
-AR's core revolutionary abilities to generate solutions within new dimensions will undoubtedly inspire society and drive further innovations, including sustainable ones.</p>
 
+<h1>Conclusion</h1>
+<p>Throughout the entirety of Group I's research, we learned that Augmented Reality (AR) stands as a transformative force, bridging the divide between the physical and digital realms. It enriches various sectors, revolutionizing industries, healthcare, education, entertainment, and even military applications. By intertwining real-world settings with digital overlays, AR enhances experiences and capabilities, showcasing its immense potential.</p>
+<p>The distinction between Augmented Reality and Virtual Reality was also discussed in this research, wherein the difference lies in their approach to reality—the former enriches reality with digital enhancements while the latter creates an entirely virtual environment.</p>
+<p>We also find out that the integration of AR into daily life also raises concerns. Health and safety issues, such as increased screen time and distractions leading to potential hazards warrant careful consideration. As with any emerging technology, understanding and mitigating these challenges are essential for responsible and sustainable deployment.</p>
+<p>And to end this, the potential for AR as a disruptive technology is evident in this research. While it offers unique attributes and possibilities, its widespread adoption and profitability in certain markets remain uncertain. The need for accessible value propositions and profitable business models is crucial for its continued growth and acceptance. In essence, Augmented Reality continues to reshape our perception of reality, promising a future where the physical and digital realms converge seamlessly, unlocking innovative possibilities and enriching various facets of our lives.</p>
+
+<h1>Group Members with their Contribution:</h1>
+
+* Joel Ramon Lopez - <i>What is Augmented Reality?</i>, <i>The Difference Between Augmented Reality and Virtual Reality</i>
+* Michelle Magpayo - <i>How Does Augmented Reality Work?</i>
+* Jermaine Lobo - <i>Augmented Reality as a Disruptive Technoology</i>,  <i>Examples of Augmented Reality in Use (Disability and Tourism)</i>
+* James Patrick Magallanes - <i>AR Consumption Revolution<i>
+* Elvin Marco Loja - <i>What is Augmented Reality?</i>, <i>The Difference Between Augmented Reality and Virtual Reality</i>, <i>Examples of Augmented Reality in Use (Dentistry)</i>
+* Suzanne Anna Maglaque - <i>How Does Augmented Reality Work?</i>, <i>Examples of Augmented Reality in Use (Military and Entertainment)</i>
+* Rayshanne Mariz Lindayag - <i>Augmented Reality as a Disruptive Technoology</i>
+* Justine Earl Macomb - <i>Examples of Augmented Reality in Use (Education and Healthcare)</i>
 
 
 <h1>References</h1>
