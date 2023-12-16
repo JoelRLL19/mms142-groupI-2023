@@ -119,7 +119,7 @@ using augmented reality.</p>
 <h2>Military Usage</h2>
 <p>Because warfare is continious, and constantly evolving, armies have to keep up with the newest military "trends" and look for opportunities to be ahead in the technological war. AR usage in military has grown exponentionally due to data and graphics processng advance,emts, enhancing combat skills through simulation of vehicles, soldiers, and combat environments,</p>
 
-* Tactical Augmented Reality (TAR)
+•	Tactical Augmented Reality (TAR)
   <p>The United States Army uses TAR to improve situational awareness. All crucial imformation like spatial orientation data, weapons target are being superimposes onto the pilot's visor ro avoic looking down on their panels, having a much better assessment of their situations and surroundings. In a way, TAR looks similar to the night-vision goggles (NVG) that offers the same features.</p>
   <p>TAR operates both night and day, and can show soldiers their exact location as well the positions of both allied and enemy forces. TAR's display can also be split into two - one for aiming, and the second for from the frontal camera mounted on the helmet, to avoid the rick of a headshor. Moreover, TAR keeps soldiers both informed and aler because of its own wireless network, allowing soldiers to share information among either squad members, or inputting data whenever the situation changes.</p>
 
@@ -155,14 +155,14 @@ participants compared to other digital or paper-based navigational aids (Bryant 
 <p>Another example is these special glasses that use augmented reality to show written words of conversations happening in real time. This could be helpful for people who can't hear well. The XRAI Glass software changes spoken words 
 into text, and then it appears inside the glasses for them to read.</p>
 
-[https://github.com/JoelRLL19/mms142-groupI-2023/assets/151889512/3adc9142-1939-496e-bdb9-2a61e6bd95fd](https://github.com/JoelRLL19/mms142-groupI-2023/assets/151889512/e38d9775-3375-49a7-a1b2-45128a4cb00c)
+https://github.com/JoelRLL19/mms142-groupI-2023/assets/151889512/4d5340a7-d301-4aac-a29a-f335c9ce67a3
 
 <h2>Generates New Cultural and Touristic Experiences</h2>
 <p>One significant application of augmented reality in museums is providing extra information alongside exhibits. Users can use their phones to view artworks, trigger text, a virtual guide, or an animated experience to 
 appear in front of them. This way, they're not reliant on guided tours and can create their personalized visit. Museums can even add fun elements like creating an app that turns finding artworks into a game, 
 similar to Pokémon Go (Blanco, 2022).</p>
 
-[https://github.com/JoelRLL19/mms142-groupI-2023/assets/151889512/9ac09f52-7555-49f5-9667-37e2b588a1c7](https://github.com/JoelRLL19/mms142-groupI-2023/assets/151889512/74bb586c-f4c7-4662-be98-56ef0cc6b4f3)
+https://github.com/JoelRLL19/mms142-groupI-2023/assets/151889512/f624582c-f784-4847-b37d-7d924c0a66ce
 
 <p>In the Philippines, ManilART, the country's longest-running visual art fair is showcasing the future by focusing on "phygital" art which combines both physical and digital aspects, along with new media. 
 The exhibition features works by artists like Romulo Galicano, Ramon Orlina, and Bell Sison. They're using augmented reality to bring 3D-modeled sculptures to life by placing them in real-world settings. 
@@ -173,15 +173,15 @@ This creates an "enhanced view" where the art seems to come alive beyond the con
 <h2>Entertainment Using AR</h2>
 <p>In the entertainment industry, AR is used in a variety of ways including enhancing live events, creating more immersive and interactive vieweing experiences for movies and TV, and creating more realistic and immersive video game experiences.</p>
 
-* Games
+•	Games
   <p>AR in games utlizes a combination of computer vision, AI, and sensor dare to bring the real workd into the gaming space, with examples including Pokemon Go, The Walking Dead: Our World, and Ingress.</p>
   <p align="center">
   <img src="AR Images/pokemon go.JPG" width="400" height="250"></p>
-* Music
+•	Music
   <p>In 2019, English rock band Muse used AR technology to creare an immersive live music experience during their Simulation Theory Tour. Using AR headsets, Muse was able to project interactive visual elements ontohte stage, allowing the audience to see and hear the music innovatively. AR allowed the band to create a unique and unforgettable live event, especially for their fans.</p>
   <p align="center">
   <img src="AR Images/muse ar.JPG" width="400" height="250"></p>
-* Sports
+•	Sports
   <p>Similar to the the military, AR is used in sports for training in coaching. The Kansas City Chiefs of the NFL used AR technology to create a virtual training ground for their players, allowing the team to design both a realisic and immersive training environment, allowing their players to both practice and improve their skills more efficiently.</p>
   <p align="center">
   <img src="AR Images/sports ar.JPG" width="400" height="250"></p>
