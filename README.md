@@ -123,12 +123,14 @@ using augmented reality.</p>
   <p>The United States Army uses TAR to improve situational awareness. All crucial imformation like spatial orientation data, weapons target are being superimposes onto the pilot's visor ro avoic looking down on their panels, having a much better assessment of their situations and surroundings. In a way, TAR looks similar to the night-vision goggles (NVG) that offers the same features.</p>
   <p>TAR operates both night and day, and can show soldiers their exact location as well the positions of both allied and enemy forces. TAR's display can also be split into two - one for aiming, and the second for from the frontal camera mounted on the helmet, to avoid the rick of a headshor. Moreover, TAR keeps soldiers both informed and aler because of its own wireless network, allowing soldiers to share information among either squad members, or inputting data whenever the situation changes.</p>
 
+<p align="center">
+<img src="AR Images/tar.JPG" width="400" height="250"></p>
+
 <h2>Enhancing Patient Care</h2>
 <p>In medicine, the AR is used to help with patient care and surgical planning and
 explain difficult medical conditions to patients. The anatomy of surgical patients can be studied using AR.
 They can input their MRI and CT scan results into an augmented reality headset. The procedure will aid
 doctors in visualizing interior organs, bones, and muscles.</p>
-
 
 <p>While in Healthcare, AR has become an increasingly integral part of it, signaling as ignificant technological intergration into the industry. The application of AR sppances various domains, including wearables, telemedicice, remote surgery, and mecial diagnosis. Enchancing patient care, streamline processes, and reducing costs is the primary objective of AR, and has shown notable advancements, showcasing its potential in the transformation of healtchcare services AR has also revolutionized both remote surgery and medical diagnosis by providing enchanced visualizations, precision, and interactive information overlay, enhacncing the surgeons' ability to interpret complex patient data.</p>
 
