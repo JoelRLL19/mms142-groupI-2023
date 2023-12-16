@@ -66,12 +66,6 @@ doctors in visualizing interior organs, bones, and muscles.</p>
 <p align="center">
   <img src="AR Images/ar medical.JPG" width="400" height="250"></p>
 
-<h2>• Augmented Reality in Education</h2>
-<p>In education, AR Books incorporate elements such as images, animation, or intarctive features superimposed on to the physcial pages when viewed from a device, such as a smartphone or tablet. According to a study on fourth and fitth-grade students founf that reading AR books increased attention, confidence, and satisfaction, highlighting the importance of providing a multisensory and interactive narrative for a better reading motivation.</p>
-<p align="center">
-  <img src="AR Images/ar school.JPG" width="400" height="250">
-</p> 
-
 <h2>• Support for People with Disability</h2>
 <p>Millions of individuals worldwide, including both children and adults facing significant communication challenges relies on augmentative and alternative communication (AAC) systems. These systems, which encompass visual aids, 
 offer a way for them to engage with the world. These communication tools play a crucial role in facilitating social interactions, communication, education, and work engagement, especially for individuals with neurodevelopmental 
@@ -83,6 +77,12 @@ participants compared to other digital or paper-based navigational aids (Bryant 
 into text, and then it appears inside the glasses for them to read.</p>
 
 <video src="https://github.com/JoelRLL19/mms142-groupI-2023/assets/151889512/4d5340a7-d301-4aac-a29a-f335c9ce67a3"></video>
+
+<h2>• Augmented Reality in Education</h2>
+<p>In education, AR Books incorporate elements such as images, animation, or intarctive features superimposed on to the physcial pages when viewed from a device, such as a smartphone or tablet. According to a study on fourth and fitth-grade students founf that reading AR books increased attention, confidence, and satisfaction, highlighting the importance of providing a multisensory and interactive narrative for a better reading motivation.</p>
+<p align="center">
+  <img src="AR Images/ar school.JPG" width="400" height="250">
+</p> 
 
 <h2>• Generates New Cultural and Touristic Experiences</h2>
 <p>Augmented Reality in tourism serves various purposes to enhance the overall travel experience. It is utilized for interactive travel guides, providing real-time information about landmarks and attractions. AR also facilitates language translation, making it easier for tourists to understand and communicate in foreign environments. Smart tourism or digital tourism uses AR to enhance the overall visitor experience and improve the quality of stay in a destination. A smart destination leverages innovation to offer immersive and interactive experiences to its visitors.</p>
@@ -120,6 +120,7 @@ This creates an "enhanced view" where the art seems to come alive beyond the con
 
 <p align="center">
 <img src="AR Images/tar.JPG" width="400" height="250"></p>
+<p>   </p>
 
 <h1>Issues with AR</h1>
 <p>In the age of widespread technology use, the incorportation of Augmented Reality into our daily lives prompts
@@ -129,6 +130,7 @@ related to posture.</p>
 <p>As individuals immerse themselves in augmented environments, there is a risk of overlooking their immediate physical
 surroundings. This is particularly evident during travel, where the use of AR navigation techniques may introduce distractions, leading to misjudgments of the speed of approaching vehicles, underestimations of reaction time, and inadvertent disregard for real-world hazards.</p>
 <p>The statement emphasizing that "<i>until something bad happens, you won't know you're at greater risk of harm</i>" underscores the critical need to comprehend and address the potential negative consequences of AR technology.</p>
+<p>   </p>
 
 <h1>AR Consumption Revolution</h1>
 
@@ -150,8 +152,8 @@ surroundings. This is particularly evident during travel, where the use of AR na
 <p>While a definitive answer to whether AR will dominate the real world remains elusive, consumer openness to transformative developments is evident. AR's potential to virtualize various physical goods marks a paradigm shift akin to the first digital revolution's digitization of information. Academics and managers are urged to view AR not just as a communication tool but as a potential disruptor with far-reaching implications.</p>
 
 <h1>Augmented Reality as a Disruptive Technology</h1>
-<p>Although Augmented Reality has the potential to revolutionize the way people interact with their environment, there are several aspects where AR can potentially be
-considered a disruptive technology.</p>
+<b>Although Augmented Reality has the potential to revolutionize the way people interact with their environment, there are several aspects where AR can potentially be
+considered a disruptive technology.</b>
 <h2>Defining Disruption</h2>
 <p>Disruption means more than just having lots of potential, changing how a business works, and profitability (Naisby, 2018).</p>
 <p>Bower and Christensen (1995) explain three key features of disruptive technologies:</p>
@@ -161,7 +163,8 @@ considered a disruptive technology.</p>
 <p>•	Predicting the future market and understanding these disruptive innovations can be hard, which increases the risk and makes them less financially attractive.</p>
 
 <h2>Applying Bower and Christensen's Ideas to AR</h2>
-<p>Getting back to the three potential characteristics of disruptive technologies by Bower and Christensen (1995), let's relate them to Augmented Reality (AR) in a broader sense.</p>
+<b>Getting back to the three potential characteristics of disruptive technologies by Bower and Christensen (1995), let's relate them to Augmented Reality (AR) in a broader sense.</b>
+<p>   </p>
 <p>•	Different Set of Attributes</p>
 <p>Considering the concept of AR, it facilitates interactive information interaction akin to real-world engagement but in a digital format. This proposition suggests novel elements, facets, and ways to generate value. 
 However, these aspects are not ones that companies and consumers are accustomed to either selling or utilizing. Christensen (1997) described this as innovations that don't align with existing customer demands, 
