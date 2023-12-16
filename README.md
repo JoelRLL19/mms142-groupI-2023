@@ -27,8 +27,10 @@
 <h1>The Difference Between Augmented Reality and Virtual Reality</h1>
 
 <p>At first glance, Augmented Reality and Virtual Reality may seem the same, and easy to mix up the two, there are actually some key difference between both. The main difference being that AR uses a real world setting, and allows its user to control their presence in the real world, while in VR, it is completely virtual, and is controlled by a system. In addition, AR enchance both the virtual and real world, while VR only enchances a fictional reality.</p>
-<p>(embed image here)</p>
 
+<p align="center">
+  <img src="AR Images/ar vs vr.JPG" width="400" height="250">
+</p>
 
 <h1>How Does Augmented Reality Work?</h1>
 <p>Computer scientist, Ivan Sutherland, who is known as the "<i>Father of Computer Graphics</i>", developed the first
