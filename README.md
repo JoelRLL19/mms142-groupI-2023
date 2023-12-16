@@ -125,7 +125,7 @@ This creates an "enhanced view" where the art seems to come alive beyond the con
 <img src="AR Images/tar.JPG" width="400" height="250"></p>
 <p>   </p>
 
-<h1>Issues with AR</h1>
+<h1>Issues with Augmented Reality</h1>
 <p>In the age of widespread technology use, the incorportation of Augmented Reality into our daily lives prompts
 concerns regarding its impact on health and safety. The continious engagements with screens facilitated by AR has
 the potential to contribute to various health issues, encompassing eye diseases, mental health disorders, and problems,
