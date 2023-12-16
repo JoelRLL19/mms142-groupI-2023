@@ -35,7 +35,7 @@
 </p>
 
 <h1>How Does Augmented Reality Work?</h1>
-<p>Computer scientist, Ivan Sutherland, who is known as the "<i>Father of Computer Graphics</i>", developed the first
+<p>Ivan Sutherland, an American Computer Scientist who is known as the "<i>Father of Computer Graphics</i>", developed the first
 augmented reality (AR) system in 1968 at Harvard. The universities, businesses, and government
 organizations continued to enhance augmented reality for wearables and digital displays throughout the
 ensuing decades. Pokémon Go, released in 2016, is an example of augmented reality in use where players travel through the
@@ -133,6 +133,8 @@ doctors in visualizing interior organs, bones, and muscles.</p>
 
 <p>While in Healthcare, AR has become an increasingly integral part of it, signaling as ignificant technological intergration into the industry. The application of AR sppances various domains, including wearables, telemedicice, remote surgery, and mecial diagnosis. Enchancing patient care, streamline processes, and reducing costs is the primary objective of AR, and has shown notable advancements, showcasing its potential in the transformation of healtchcare services AR has also revolutionized both remote surgery and medical diagnosis by providing enchanced visualizations, precision, and interactive information overlay, enhacncing the surgeons' ability to interpret complex patient data.</p>
 
+<p>In the medical studies and training in dentistry, particularly in oral and maxillofacial surgery, AR technology focuses on implants and orthoganic surgery, improving restorative dentistry, orthodontics, and endodontics.</p>
+
 <p align="center">
   <img src="AR Images/ar medical.JPG" width="400" height="250"></p>
 
@@ -164,8 +166,6 @@ This creates an "enhanced view" where the art seems to come alive beyond the con
 <p align="center">
   <img src="AR Images/ManilART.png" width="400" height="250"></p>
 
-
-
 <h1>References</h1>
 <p>A Javornik - The Mainstreaming of Augmented Reality: A Brief History.., 2016
 https://hbr.org/2016/10/the-mainstreaming-of-augmented-reality-a-briefhistory#:~:text=The%20first%20AR%20technology%20was,for%20wearables%20and%20digital%20displays.</p>
@@ -179,7 +179,6 @@ https://synapse.koreamed.org/articles/1044286</p>
 https://elearningindustry.com/augmented-reality-in-education-staggering-insight-into-fut</p>
 <p>M Eckert, JS Volmerg, CM Friedrich - JMIR mHealth and uHealth, 2019 - mhealth.jmir.org
 https://mhealth.jmir.org/2019/4/e10967/</p>
-
 <p>Aggarwal, R., & Singhal, A. (2019). Augmented Reality and its effect on our life. 2019 9th International Conference on Cloud Computing, Data Science & Engineering (Confluence). doi:10.1109/confluence.2019.87</p>
 <p>Tulane. N.D. What's the Difference between AR and VR? Retrieved from: https://sopa.tulane.edu/blog/whats-difference-between-ar-and-vr</p>
 <p>Roumba, E. (2022). Augmented reality books: Motivation, attitudes, and behaviors of young readers. International Journal of Interactive Mobile Technologies (iJIM), 16(16), 59–73. https://doi.org/10.3991/ijim.v16i16.31741</p>
@@ -192,4 +191,5 @@ https://mhealth.jmir.org/2019/4/e10967/</p>
 <p>Ebdane, A. (2022, October 22). ‘Phygital’ art, augmented reality take center stage at ManilART 2022. RAPPLER. https://www.rappler.com/life-and-style/arts-culture/phygital-art-augmented-reality-take-centerstage-manilart-2022/</p>
 <p>South China Morning Post. (2022, July 29). Live-caption glasses let deaf people read conversations using augmented reality [Video]. YouTube. https://www.youtube.com/watch?v=LauvOTnZMZg</p>
 <p>Jasenovcova L., (2022, August 10). What is Augmented Reality and how   does AR work?. Resco. https://www.resco.net/blog/what-is-augmented-reality-and-how-does-ar-work/ </p>
+<p>Han J., Kwon H., Park Y., (2018, February 21). Augmented Reality in Dentistry: a current perspective. National Library of Medicine. https://pubmed.ncbi.nlm.nih.gov/29465283/</p>
 <p>Rauschnabel, P. A. (2021). Augmented reality is eating the real-world! The substitution of physical products by holograms. International Journal of Information Management, 57, 102279. https://doi.org/10.1016/j.ijinfomgt.2020.102279<p>
