@@ -155,14 +155,14 @@ participants compared to other digital or paper-based navigational aids (Bryant 
 <p>Another example is these special glasses that use augmented reality to show written words of conversations happening in real time. This could be helpful for people who can't hear well. The XRAI Glass software changes spoken words 
 into text, and then it appears inside the glasses for them to read.</p>
 
-https://github.com/JoelRLL19/mms142-groupI-2023/assets/151889512/3adc9142-1939-496e-bdb9-2a61e6bd95fd
+[https://github.com/JoelRLL19/mms142-groupI-2023/assets/151889512/3adc9142-1939-496e-bdb9-2a61e6bd95fd](https://github.com/JoelRLL19/mms142-groupI-2023/assets/151889512/e38d9775-3375-49a7-a1b2-45128a4cb00c)
 
 <h2>Generates New Cultural and Touristic Experiences</h2>
 <p>One significant application of augmented reality in museums is providing extra information alongside exhibits. Users can use their phones to view artworks, trigger text, a virtual guide, or an animated experience to 
 appear in front of them. This way, they're not reliant on guided tours and can create their personalized visit. Museums can even add fun elements like creating an app that turns finding artworks into a game, 
 similar to Pokémon Go (Blanco, 2022).</p>
 
-https://github.com/JoelRLL19/mms142-groupI-2023/assets/151889512/9ac09f52-7555-49f5-9667-37e2b588a1c7
+[https://github.com/JoelRLL19/mms142-groupI-2023/assets/151889512/9ac09f52-7555-49f5-9667-37e2b588a1c7](https://github.com/JoelRLL19/mms142-groupI-2023/assets/151889512/74bb586c-f4c7-4662-be98-56ef0cc6b4f3)
 
 <p>In the Philippines, ManilART, the country's longest-running visual art fair is showcasing the future by focusing on "phygital" art which combines both physical and digital aspects, along with new media. 
 The exhibition features works by artists like Romulo Galicano, Ramon Orlina, and Bell Sison. They're using augmented reality to bring 3D-modeled sculptures to life by placing them in real-world settings. 
