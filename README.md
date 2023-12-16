@@ -12,11 +12,11 @@
 </p>
 <h1>Group Members:</h1>
 
-* Joel Ramon Lopez - <i>The difference Between Augmented Reality and Virtual Reality</i>
+* Joel Ramon Lopez - <i>What is Augmented Reality?</i>, <i>The Difference Between Augmented Reality and Virtual Reality</i>
 * Michelle Magpayo - <i>How Does Augmented Reality Work?</i>
 * Jermaine Lobo - <i>Augmented Reality as a Disruptive Technoology</i>
 * James Patrick Magallanes - <i>AR Consumption Revolution<i>
-* Elvin Marco Loja - <i>What is Augmented Reality?</i>
+* Elvin Marco Loja - <i>What is Augmented Reality?</i>, <i>The Difference Between Augmented Reality and Virtual Reality</i>
 * Suzanne Anna Maglaque
 * Rayshanne Mariz Lindayag - <i>Augmented Reality as a Disruptive Technoology</i>
 * Justine Earl Macomb - <i>Examples of Augmented Reality in Use</i>
@@ -27,6 +27,8 @@
 <h1>The Difference Between Augmented Reality and Virtual Reality</h1>
 
 <p>At first glance, Augmented Reality and Virtual Reality may seem the same, and easy to mix up the two, there are actually some key difference between both. The main difference being that AR uses a real world setting, and allows its user to control their presence in the real world, while in VR, it is completely virtual, and is controlled by a system. In addition, AR enchance both the virtual and real world, while VR only enchances a fictional reality.</p>
+
+<p>In addition, Augmented Reality enchances real-life situations using both data and animations, requiring a mobile cellphone for simple usage, while Virtual Reality requires the the use of both the user's vision and hearing to cover the entire scenarion.</p>
 
 <p align="center">
   <img src="AR Images/ar vs vr.JPG" width="400" height="250">
@@ -184,11 +186,10 @@ https://mhealth.jmir.org/2019/4/e10967/</p>
 <p>Ferrari, V., Klinker, G., & Cutolo, F. (2019). Augmented reality in Healthcare. Journal of Healthcare Engineering, 2019, 1–2. https://doi.org/10.1155/2019/9321535</p>
 <p>Augmented reality and tourism: The New Travel experience. Onirix. (2023, May 12). https://www.onirix.com/augmented-reality-and-tourism-the-new-travel-experience/ </p>
 <p>Hayes, A. (n.d.). Augmented reality (AR) defined, with examples and uses. Investopedia. https://www.investopedia.com/terms/a/augmented-reality.asp#:~:text=Augmented%20reality%20either%20makes%20visual,and%20industrial%20manufacturing%2C%20among%20others.</p>
-
 <p>Frodell, H., & Olivegren, A. (2020). Investigating Augmented Reality’s Potential Disruptiveness. https://odr.chalmers.se/server/api/core/bitstreams/0759ca46-0c33-463e-a4b9-3e3555ee22b5/content</p>
 <p>Bryant, L., & Hemsley, B. (2022) Augmented reality: a view to future visual supports for people with disability, Disability and Rehabilitation: Assistive Technology. https://www.tandfonline.com/doi/full/10.1080/17483107.2022.2125090</p>
 <p>Jose.Blanco. (2022, December 28). Augmented reality in museums: advantages and uses - Evergine. Evergine. https://evergine.com/augmented-reality-museums/</p>
 <p>Ebdane, A. (2022, October 22). ‘Phygital’ art, augmented reality take center stage at ManilART 2022. RAPPLER. https://www.rappler.com/life-and-style/arts-culture/phygital-art-augmented-reality-take-centerstage-manilart-2022/</p>
 <p>South China Morning Post. (2022, July 29). Live-caption glasses let deaf people read conversations using augmented reality [Video]. YouTube. https://www.youtube.com/watch?v=LauvOTnZMZg</p>
-
+<p>Jasenovcova L., (2022, August 10). What is Augmented Reality and how   does AR work?. Resco. https://www.resco.net/blog/what-is-augmented-reality-and-how-does-ar-work/ </p>
 <p>Rauschnabel, P. A. (2021). Augmented reality is eating the real-world! The substitution of physical products by holograms. International Journal of Information Management, 57, 102279. https://doi.org/10.1016/j.ijinfomgt.2020.102279<p>
