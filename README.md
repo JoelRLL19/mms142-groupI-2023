@@ -40,7 +40,7 @@ augmented reality (AR) system in 1968 at Harvard. The universities, businesses, 
 organizations continued to enhance augmented reality for wearables and digital displays throughout the
 ensuing decades.</p>
 
-<p>AR delivers visual elements, sound, and other sensroy information to the user through devices like smartphones, tablets, glasses, and even contact lenses. The information is overlaid on the devices to create an interwoven 3D experience where the digital dat alters and/or improves the user's perception of the real world. AR apps are written in special 3D programs that enable developers to tie either animation, or contextual digital infromation in the program ro an augmented reality maker in the real world. When the computing device's AR app or browser plugin receives the digital information from a known marker,  it begins to execute the maker's code, and layers the correct images. Because the technology requires hardware components such as processors, sensors, displays, and input devices, mobile phones are a great example for AR usage, through its sensors including cameras, accelometers, Global Positioning System (GPS), and solid-state compasses, help make AR more accessible to users in their daily lives. For example, a GPS pinopints the user's location, and its compass detects the device's orientation.</p>
+<p>AR delivers visual elements, sound, and other sensroy information to the user through devices like smartphones, tablets, glasses, and even contact lenses. The information is overlaid on the devices to create an interwoven 3D experience where the digital dat alters and/or improves the user's perception of the real world. AR apps are written in special 3D programs that enable developers to tie either animation, or contextual digital infromation in the program ro an augmented reality maker in the real world. When the computing device's AR app or browser plugin receives the digital information from a known marker,  it begins to execute the maker's code, and layers the correct images. Because the technology requires hardware components such as processors, sensors, displays, and input devices, mobile phones are a great example for AR usage, through its sensors including cameras, accelometers, Global Positioning System (GPS), and solid-state compasses, help make AR more accessible to users in their daily lives.</p>
 
 <h1>Examples of Augmented Reality In Use</h1>
 
@@ -134,22 +134,24 @@ surroundings. This is particularly evident during travel, where the use of AR na
 
 <p>The trajectory of augmented reality (AR) in the landscape of technological advancement suggests its emergence as a mainstream medium with the potential to reshape marketing and management strategies. An intriguing question surfaces: Will AR render existing physical products and services obsolete? Philipp A. Rauschnabel's article embarks on a comprehensive exploration of AR marketing, drawing insights from four extensive studies involving over 2,000 respondents. The primary focus is to uncover consumer attitudes towards holographic AR substitutes for tangible products (Rauschnabel, 2021).</p>
 
-<h2>Current State and Future Potential</h2>
+<h2>• Current State and Future Potential</h2>
 <p>In the midst of consistent forecasts predicting AR's ascent as a mass medium, current research predominantly delves into narrow aspects of AR, such as user perceptions and responses to specific AR content. A crucial gap exists in visionary research that contemplates the broader societal and industrial implications of AR. This study takes a radical, future-oriented approach, treating AR not merely as an auxiliary tool but as a potential disruptor that could replace elements of our physical world (Rauschnabel, 2021).</p>
 
-<h2>Systematic Analysis of Substitutability</h2>
+<h2>• Systematic Analysis of Substitutability</h2>
 <p>Compelling findings emerge from the research. Products, ranging from Post-it notes to manuals and navigation technology, exhibit relatively high acceptance rates for holographic AR substitution. Conversely, certain categories like pets and memorabilia display lower acceptance. The systematic analysis indicates that highly substitutable products share characteristics such as utilitarian benefits, digitization, and reduced symbolism, visibility, or ornamentation. Interestingly, expensive items do not necessarily receive higher substitution scores, challenging preconceptions and suggesting that consumers perceive AR substitutes as a distinct product category (Rauschnabel, 2021).</p>
 
-<h2>Consumer Responses and Segment Variations</h2>
+<h2>• Consumer Responses and Segment Variations</h2>
 <p>A detailed examination of consumer responses reveals distinct patterns. Demographic factors such as gender and age, as well as personal AR vision, influence openness to AR substitutes. Younger males, irrespective of financial status, demonstrate greater receptiveness. Consumers with a clear personal vision of AR's impact on their lives also display higher acceptance. Additionally, those inclined towards digital substitutes, exemplified by a preference for e-books over physical books, express greater openness to AR substitutes (Rauschnabel, 2021).</p>
 
-<h2>AR's Role in Shaping Future Experiences</h2>
+<h2>• AR's Role in Shaping Future Experiences</h2>
 <p>As the world stands on the brink of potential mass AR adoption, the article considers the transformative role of AR in shaping future consumer experiences. Rather than a mere communication gimmick, AR emerges as a potent disruptor that challenges the dichotomy between physical and virtual realms. Leading IT companies' announcements regarding technologies capable of offering realistic substitutes underscore the imminent nature of this transformative shift (Rauschnabel, 2021).</p>
 
-<h2>Will AR render existing physical products and services obsolete?</h2>
+<h2>• Will AR render existing physical products and services obsolete?</h2>
 <p>While a definitive answer to whether AR will dominate the real world remains elusive, consumer openness to transformative developments is evident. AR's potential to virtualize various physical goods marks a paradigm shift akin to the first digital revolution's digitization of information. Academics and managers are urged to view AR not just as a communication tool but as a potential disruptor with far-reaching implications.</p>
 
 <h1>Augmented Reality as a Disruptive Technology</h1>
+<p>Although Augmented Reality has the potential to revolutionize the way people interact with their environment, there are several aspects where AR can potentially be
+considered a disruptive technology.</p>
 <h2>Defining Disruption</h2>
 <p>Disruption means more than just having lots of potential, changing how a business works, and profitability (Naisby, 2018).</p>
 <p>Bower and Christensen (1995) explain three key features of disruptive technologies:</p>
@@ -157,17 +159,6 @@ surroundings. This is particularly evident during travel, where the use of AR na
 <p>•	These innovations may offer different qualities compared to existing solutions and may perform worse in one or two aspects that current customers of established companies value.</p>
 <p>•	These innovations might not seem financially appealing to established companies.</p>
 <p>•	Predicting the future market and understanding these disruptive innovations can be hard, which increases the risk and makes them less financially attractive.</p>
-
-<h2>AR's Disruptive Potential</h2>
-<p>Although Augmented Reality has the potential to revolutionize the way people interact with their environment, there are several aspects where AR can potentially be
-considered a disruptive technology.</p>
-<p>First and foremost, AR, along with VR, allow users to experience virtual realities in ways that were previously thought impossible, such as AR glasses like Google Glass in 2013. 
-Following its release, numerous companies focusing on AR glasses have emerged, offering users the ability to visualize digital objects. 
-Craig (2013) states that the primary goal of AR is to "generate stimuli that make participants believe something is happening when it's not."</p>
-<p>Secondly, AR offers new ways for its users to interact both with each other, and their envrionment through immersive processes, such as apps
-like Pokemon Go, which lets players explore the real world, while the game's digital creatures are overlayed on top of the environment. Over the past few years, Android and iOS phones have been capable of running AR applications, 
-and with each new iteration, they become increasingly potent due to significant investments in the technology, particularly by manufacturers like Apple (Zade, 2020).</p>
-<p>Lastly, there exists Spatial Augmented Reality (SAR) or projection mapping, which operates without handheld or head-mounted devices. SAR employs digital projectors to project visual content onto tangible objects.</p>
 
 <h2>Applying Bower and Christensen's Ideas to AR</h2>
 <p>Getting back to the three potential characteristics of disruptive technologies by Bower and Christensen (1995), let's relate them to Augmented Reality (AR) in a broader sense.</p>
