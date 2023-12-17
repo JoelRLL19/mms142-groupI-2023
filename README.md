@@ -25,7 +25,7 @@
 <p>8. Conclusion</p>
   
 <h1>What is Augmented Reality?</h1>
-<p>Augmented Reality (AR) is defined as either a real-time direct, or indirect view technology that combines digital image and information with the real-time views of the physical environment. AR bridges the digital and physical world, transforming data management and collection within the interent. While AR limits user imagination, AR simlultaneously allows the discovery of 3D worlds, and allows for simultaneous interactions between humans and machines.</p>
+<p>Augmented Reality (AR) is defined as either a real-time direct, or indirect view technology that combines digital image and information with the real-time views of the physical environment. AR bridges the digital and physical world, transforming data management and collection within the internet. While AR limits user imagination, AR simlultaneously allows the discovery of 3D worlds, and allows for simultaneous interactions between humans and machines.</p>
 
 <h1>The Difference Between Augmented Reality and Virtual Reality</h1>
 
