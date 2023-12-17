@@ -189,14 +189,14 @@ This underscores the challenge of developing profitable business models for comp
 
 <h2>Group Members with their Contributions:</h2>
 
-* Joel Ramon Lopez - <i>What is Augmented Reality?</i>, <i>The Difference Between Augmented Reality and Virtual Reality</i>
-* Michelle Magpayo - <i>How Does Augmented Reality Work?</i>
-* Jermaine Lobo - <i>Augmented Reality as a Disruptive Technoology</i>,  <i>Examples of Augmented Reality in Use (Disability and Tourism)</i>
-* James Patrick Magallanes - <i>AR Consumption Revolution<i>
-* Elvin Marco Loja - <i>What is Augmented Reality?</i>, <i>The Difference Between Augmented Reality and Virtual Reality</i>, <i>Examples of Augmented Reality in Use (Dentistry)</i>
-* Suzanne Anna Maglaque - <i>How Does Augmented Reality Work?</i>, <i>Examples of Augmented Reality in Use (Military and Entertainment)</i>
-* Rayshanne Mariz Lindayag - <i>Augmented Reality as a Disruptive Technoology</i>
-* Justine Earl Macomb - <i>Examples of Augmented Reality in Use (Education and Healthcare)</i>
+•	Joel Ramon Lopez - <i>What is Augmented Reality?</i>, <i>The Difference Between Augmented Reality and Virtual Reality</i>
+•	Michelle Magpayo - <i>How Does Augmented Reality Work?</i>
+•	Jermaine Lobo - <i>Augmented Reality as a Disruptive Technoology</i>,  <i>Examples of Augmented Reality in Use (Disability and Tourism)</i>
+•	James Patrick Magallanes - <i>AR Consumption Revolution<i>
+•	Elvin Marco Loja - <i>What is Augmented Reality?</i>, <i>The Difference Between Augmented Reality and Virtual Reality</i>, <i>Examples of Augmented Reality in Use (Dentistry)</i>
+•	Suzanne Anna Maglaque - <i>How Does Augmented Reality Work?</i>, <i>Examples of Augmented Reality in Use (Military and Entertainment)</i>
+•	Rayshanne Mariz Lindayag - <i>Augmented Reality as a Disruptive Technoology</i>
+•	Justine Earl Macomb - <i>Examples of Augmented Reality in Use (Education and Healthcare)</i>
 
 
 <h1>References</h1>
