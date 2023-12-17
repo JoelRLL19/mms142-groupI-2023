@@ -13,7 +13,7 @@
 
 <h1>Introduction</h1>
 <p>Imagine if a tiny device had the power to revolutionize our understanding, like a magical wand that opens gateways to an entirely different realm. And what if we told you that there's a possibility that this innovative potential is already within your grasp—right in the palm of your hand, concealed in your phone.</p>
-<p>With that, this research by Group I underscores AR's transformative potential in seamlessly integrating digital enhancements into real-world environments, reshaping perceptions and capabilities. However, alongside its vast promise, this research underscores concerns regarding health, safety, and uncertainties regarding widespread adoption and profitability. Ultimately, this research will also discussed how Augmented Reality stands as a disruptive force, offering innovative possibilities while necessitating careful consideration and strategic approaches for sustainable integration and evolution in various sectors.</p>
+<p>With that, this research by Group I underscores AR's transformative potential in seamlessly integrating digital enhancements into real-world environments, reshaping perceptions and capabilities. However, alongside its vast promise, this research underscores concerns regarding health, safety, and uncertainties regarding widespread adoption and profitability. Ultimately, this research will also discuss how Augmented Reality stands as a disruptive force, offering innovative possibilities while necessitating careful consideration and strategic approaches for sustainable integration and evolution in various sectors.</p>
 <h3>Table of Contents:</h3>
 <p>1. What is Augmented Reality?</p>
 <p>2. The Difference Between Augmented Reality and Virtual Reality</p>
